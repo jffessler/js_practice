@@ -76,3 +76,16 @@ these characters is a multi-line comment that will be ignored by the Javascript 
 // console.log(x);
 
 ///////////// Objects
+// const namer = 'John';
+// const age = 25;
+
+// const person = {
+//     name: "John", 
+//     age: 25,
+// };
+
+
+// // dot notation
+// console.log(person.name)
+
+///////////// Arrays 
