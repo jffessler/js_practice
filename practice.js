@@ -89,3 +89,17 @@ these characters is a multi-line comment that will be ignored by the Javascript 
 // console.log(person.name)
 
 ///////////// Arrays 
+
+// const arr = [1,2,3,4];
+
+// ////// object continued, arrays are also objects
+
+// const date = new Date();
+// console.log(date);
+
+// console.log(typeof arr);
+// // console.log(typeof person);
+// console.log(typeof date);
+
+///////// Statically Typed Languages
+///////// Dynamically Typed Languages
