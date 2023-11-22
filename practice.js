@@ -103,3 +103,47 @@ these characters is a multi-line comment that will be ignored by the Javascript 
 
 ///////// Statically Typed Languages
 ///////// Dynamically Typed Languages
+
+
+// javascript is dynamically typed meaning that variables can have their type changed, i.e. number to string
+
+////////
+// Comparison operators => return true/false
+
+// const a = 10;
+// const b = 10;
+// // greater than, greater than or equal to, less than , less than or equal, equal, and not equal
+// // console.log(a==b);
+// // console.log(a != b);
+
+// // strict equality
+// console.log(a === b);
+// // strict inequality
+// console.log(a !== b);
+
+// console.log(5 == '5');
+// console.log(5 === '5')
+
+// strict equality compares both VALUES and DATA TYPES
+// it only returns true if both are strictly the same
+
+// Loose equality: it doesn't compare data types!!
+// console.log(20 == "20") returns true
+
+// Generally NEVER use loose equality
+// good ones: === and !==
+// bad ones
+
+
+// The dangers of using loose equality and examples
+// console.log('' == '0') // false
+// console.log(0 == '') // true
+// console.log(0 == '0') // true
+
+// console.log(false == 'false') // false
+// console.log(false == '0') // true
+
+///////////// Logical Operators
+
+
+
