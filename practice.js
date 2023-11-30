@@ -144,6 +144,11 @@ these characters is a multi-line comment that will be ignored by the Javascript 
 // console.log(false == '0') // true
 
 ///////////// Logical Operators
-
+// or || at least ONE of the opperands are true then return True
+// console.log(true || false);
+// and && -> All operands are true and then returns True
+// console.log(true && true && true);
+// not !
+// console.log(!true);
 
 
