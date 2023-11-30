@@ -230,12 +230,12 @@ these characters is a multi-line comment that will be ignored by the Javascript 
 // console.log(bool);
 
 // arrow functions!
-const square1 = (number) => {
-    return number*number;
-}
-const square = (number) => number*number;
+// const square1 = (number) => {
+//     return number*number;
+// }
+// const square = (number) => number*number;
 
-const result = square(5);
-console.log(result)
-const result1 = square1(5)
-console.log(result1)
+// const result = square(5);
+// console.log(result)
+// const result1 = square1(5)
+// console.log(result1)
