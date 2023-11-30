@@ -182,5 +182,60 @@ these characters is a multi-line comment that will be ignored by the Javascript 
 /////////// Functions
 
 // function declaration (where the function is defined)
-// function call (where a function is executed)
+// function squared(number) {
+//     return number*number;
+// }
+// // function call (where a function is executed)
 
+// const result = squared(5);
+// console.log(result);
+
+// // function declaration
+
+// function names(params){
+//     // statements on there womens clothes
+//     // have access to THIS keyword
+// }
+// // function expression
+// const name = names(params) {
+//     // statements
+// }
+
+// // arrow functions
+// const name = names(params) => {
+//     //statement
+// }
+
+// function sayhi(name){
+//     console.log(`Hi, ${name}`)
+
+// }
+// sayhi("Joe")
+
+// functions continued
+
+// function add(a,b){
+//     // return "Returned!";
+//     return a + b;
+// }
+// const sum = add(2,2);
+// console.log(sum);
+
+// function test() {
+//     return true;
+//     // return false;
+// }
+
+// const bool = test();
+// console.log(bool);
+
+// arrow functions!
+const square1 = (number) => {
+    return number*number;
+}
+const square = (number) => number*number;
+
+const result = square(5);
+console.log(result)
+const result1 = square1(5)
+console.log(result1)
