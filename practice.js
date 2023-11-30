@@ -152,3 +152,35 @@ these characters is a multi-line comment that will be ignored by the Javascript 
 // console.log(!true);
 
 
+/////////// If statement
+// const age = 1;
+
+// if (age > 18) {
+//     console.log("You may enter!");
+// } else if (age === 18){
+//     console.log("You turned 18, Welcome!");
+// } else {
+//     console.log("Grow Up!");
+// }
+
+/////////// While loop
+
+// let i = 0;
+// while (i < 10){
+//     console.log(i);
+//     i ++;
+// }
+
+/////////// For loops
+// for([initialization]); [condition]; [final-espression]{
+// }
+
+// for(let i = 0;i < 10;i++){
+//     console.log(i);
+// }
+
+/////////// Functions
+
+// function declaration (where the function is defined)
+// function call (where a function is executed)
+
